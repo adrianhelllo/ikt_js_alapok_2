@@ -19,6 +19,7 @@ body > div {
     margin: auto;
     background-color: #ddd;
     padding: 0.75rem;
+    margin-bottom: 5rem;
     border-radius: 1rem;
 }
 
